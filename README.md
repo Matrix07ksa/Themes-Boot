@@ -21,3 +21,5 @@ sudo -i
 pip3 install npyscreen
 ```
 
+# Usage:
+![alt text]()
