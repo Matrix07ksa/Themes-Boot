@@ -13,7 +13,7 @@ cd Themes-Boot
 sudo python Grub-Boot.py
 ```
 
-## install :
+## Library install Npyscreen :
 ```bash
 
 sudo -i
