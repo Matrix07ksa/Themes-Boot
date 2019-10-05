@@ -25,7 +25,7 @@ pip3 install npyscreen
 ![alt text](https://media.giphy.com/media/low0CrPJzYKJRa6L39/giphy.gif)
 
 
- Test:
+# Test:
 
 ![alt text](https://raw.githubusercontent.com/Matrix07ksa/Themes-Boot/master/grub-boot-test/grub-ksa.png)
 
