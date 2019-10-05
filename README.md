@@ -22,4 +22,4 @@ pip3 install npyscreen
 ```
 
 # Usage:
-![alt text](https://www.upload.ee/image/10557993/usage-Grub.gif)
+![alt text](https://giphy.com/gifs/gnu-linux-low0CrPJzYKJRa6L39)
