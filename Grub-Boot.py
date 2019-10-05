@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3 
 # -*- coding: utf-8 -*-#
 # Code by Hejab Zaeri KSA 
 import os
