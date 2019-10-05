@@ -22,4 +22,4 @@ pip3 install npyscreen
 ```
 
 # Usage:
-![alt text](https://giphy.com/gifs/gnu-linux-low0CrPJzYKJRa6L39)
+![alt text](https://media.giphy.com/media/low0CrPJzYKJRa6L39/giphy.gif)
