@@ -31,6 +31,4 @@ pip3 install npyscreen
 
 ![alt text](https://raw.githubusercontent.com/Matrix07ksa/Themes-Boot/master/grub-boot-test/Grub_boot.png)
 
-![alt text](https://raw.githubusercontent.com/Matrix07ksa/Themes-Boot/master/grub-boot-test/grub-boot.png)
 
-![alt text](https://raw.githubusercontent.com/Matrix07ksa/Themes-Boot/master/grub-boot-test/hejab.png)
